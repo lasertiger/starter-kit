@@ -36,7 +36,7 @@
     "@fortawesome/fontawesome-free": "^5.15.1",
     "rxjs": "^6.6.3",
     "tslib": "^2.0.1",
-    "zone.js": "~0.10.3"
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-builders/jest": "^11.0.0",
